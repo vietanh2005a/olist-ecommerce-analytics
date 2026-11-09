@@ -4,7 +4,10 @@
 [![SQL Server](https://img.shields.io/badge/SQL_Server-T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 [![Power BI](https://img.shields.io/badge/Power_BI-DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
 
-> **Project Artifacts**: [📊 Power BI Dashboard (`.pbix`)](powerbi/Olist_Ecommerce_Analytics.pbix) | [📓 Python EDA Notebook](notebooks/01_exploratory_data_analysis.ipynb) | [🗄️ SQL Analytical Scripts](sql/)
+> **Project Artifacts**: [🌐 Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmJiNTMyMTUtYWI4NS00MzI2LWEzZDItOGFiNjBjYzA3YTQwIiwidCI6IjVlOGIzMjY5LTc2Y2EtNDU3Yy04NDdmLTQ0NGUzZGI5ODZhNyIsImMiOjl9) | [📊 Power BI File (`.pbix`)](powerbi/Olist_Ecommerce_Analytics.pbix) | [📓 Python EDA Notebook](notebooks/01_exploratory_data_analysis.ipynb) | [🗄️ SQL Analytical Scripts](sql/)
+
+[![Executive Overview Dashboard](docs/images/dashboard_page1_executive.png)](https://app.powerbi.com/view?r=eyJrIjoiMmJiNTMyMTUtYWI4NS00MzI2LWEzZDItOGFiNjBjYzA3YTQwIiwidCI6IjVlOGIzMjY5LTc2Y2EtNDU3Yy04NDdmLTQ0NGUzZGI5ODZhNyIsImMiOjl9)
+*Click the image to open the interactive dashboard.*
 
 ---
 
